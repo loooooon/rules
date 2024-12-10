@@ -1,5 +1,6 @@
 资料来源：
 [CustomOpenClashRules](https://github.com/Aethersailor/Custom_OpenClash_Rules/wiki/OpenClash-%E8%AE%BE%E7%BD%AE%E6%96%B9%E6%A1%88)
+and
 [七尺宇](https://qichiyu.blogspot.com/2024/07/openclash.html)
 # 1.准备工作
 ## 1.OpenClash 仓库
